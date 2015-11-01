@@ -1,9 +1,7 @@
-Bay Area Tattoo Convention 2014
+Artists at Bay Area Tattoo Convention 2014
 ==========================
 
-Links of artists attending the 10th annual Bay Area Tattoo Convention October 24–25–26, 2014 SFO Hyatt Regency.
-
-I was trying to see what artists were going to be attending the tattoo convention and found the website wasn't very helpful. On the website the artist links go to websta.me and I wanted to link directly to Instagram. Found it was easier just to quickly change all the links.
+Links of artists that attended the 10th annual Bay Area Tattoo Convention October 24,25,26, 2014 at SFO Hyatt Regency.
 
 | Artist        | Shop          | Instagram                                              |
 | ------------- |:-------------:| :-----------------------------------------------------:|
